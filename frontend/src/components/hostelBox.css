@@ -1,0 +1,16 @@
+.hostelBoxStyle{
+    border: 5px solid #0D5BB5;
+    height: 200px;
+    width: 400px;
+    color: #0D5BB5;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: #F3F9FF;
+
+}
+
+.hostelBoxStyle:hover{
+  background-color: #0D5BB5;
+  color: white;
+}

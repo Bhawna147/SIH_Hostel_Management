@@ -1,0 +1,23 @@
+h1{
+    padding-top: 25px;
+    font-size: 60px;
+    text-align: center;
+    /* margin: 10px; */
+}
+
+
+.hostelPageStyle{
+    background-color: #013571;
+    color: white;
+    height: 100vh;
+}
+
+button{
+text-decoration: none;
+border: none;
+margin: 0%;
+}
+
+button:hover{
+    background-color: #013571;
+}

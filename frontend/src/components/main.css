@@ -1,0 +1,29 @@
+h1{
+    padding-top: 25px;
+    font-size: 60px;
+    text-align: center;
+    /* margin: 10px; */
+}
+
+.main-section {
+    background-color: #F3F9FF;
+    /* background-color: #1571cd; */
+    height: 100vh;
+}
+
+.hostelBoxSection{
+    align-items: center;
+    margin-top: 8%;
+    margin-left: 4%;
+}
+
+.countSection {
+
+    margin-top: 8%;
+    margin-left: 29%;
+}
+
+button {
+    border: 0;
+    text-decoration: none;
+  }

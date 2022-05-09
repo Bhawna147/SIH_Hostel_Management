@@ -1,0 +1,31 @@
+h1{
+    padding-top: 25px;
+    font-size: 60px;
+    text-align: center;
+    /* margin: 10px; */
+}
+.studentDetailStyle{
+/* background-color: red; */
+width: 85%;
+margin: auto;
+}
+
+.studentDetailPhoto {
+    margin: auto;
+    background-color: rgb(212, 212, 212);
+    border: 12px solid #013571;
+    height: 500px;
+    width: 500px;
+    margin-top: 25px;
+    background-image: url("./photo-cartoon-girl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.studentDetailInfo{
+    font-size: 40px;
+    margin: auto;
+    margin-top: 90px;
+}
